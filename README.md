@@ -1,2 +1,2 @@
 # HRMSDATABASE
-HRMS database with POSTGRESQL
+HRMS database 
